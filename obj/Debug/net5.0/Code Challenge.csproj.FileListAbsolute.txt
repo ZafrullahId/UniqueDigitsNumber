@@ -1,0 +1,16 @@
+C:\Users\Zafrullah\Desktop\Code Challenge\bin\Debug\net5.0\Code Challenge.exe
+C:\Users\Zafrullah\Desktop\Code Challenge\bin\Debug\net5.0\Code Challenge.deps.json
+C:\Users\Zafrullah\Desktop\Code Challenge\bin\Debug\net5.0\Code Challenge.runtimeconfig.json
+C:\Users\Zafrullah\Desktop\Code Challenge\bin\Debug\net5.0\Code Challenge.runtimeconfig.dev.json
+C:\Users\Zafrullah\Desktop\Code Challenge\bin\Debug\net5.0\Code Challenge.dll
+C:\Users\Zafrullah\Desktop\Code Challenge\bin\Debug\net5.0\ref\Code Challenge.dll
+C:\Users\Zafrullah\Desktop\Code Challenge\bin\Debug\net5.0\Code Challenge.pdb
+C:\Users\Zafrullah\Desktop\Code Challenge\obj\Debug\net5.0\Code Challenge.csproj.AssemblyReference.cache
+C:\Users\Zafrullah\Desktop\Code Challenge\obj\Debug\net5.0\Code Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zafrullah\Desktop\Code Challenge\obj\Debug\net5.0\Code Challenge.AssemblyInfoInputs.cache
+C:\Users\Zafrullah\Desktop\Code Challenge\obj\Debug\net5.0\Code Challenge.AssemblyInfo.cs
+C:\Users\Zafrullah\Desktop\Code Challenge\obj\Debug\net5.0\Code Challenge.csproj.CoreCompileInputs.cache
+C:\Users\Zafrullah\Desktop\Code Challenge\obj\Debug\net5.0\Code Challenge.dll
+C:\Users\Zafrullah\Desktop\Code Challenge\obj\Debug\net5.0\ref\Code Challenge.dll
+C:\Users\Zafrullah\Desktop\Code Challenge\obj\Debug\net5.0\Code Challenge.pdb
+C:\Users\Zafrullah\Desktop\Code Challenge\obj\Debug\net5.0\Code Challenge.genruntimeconfig.cache
